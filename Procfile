@@ -1,2 +1,2 @@
 web gunicorn app:app
-web gunicorn app:test2
+web gunicorn test2:test2
